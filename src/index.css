@@ -1,6 +1,5 @@
-/* Tailwind CSS is automatically injected by @tailwindcss/vite plugin */
-@import "tailwindcss";
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Outfit:wght@100..900&display=swap");
+@import "tailwindcss";
 
 * {
     font-family: "Outfit", "Inter";
